@@ -1,2 +1,2 @@
 def try_me():
-    print('My name is Valentinos')
+    return 'My name is Valentinos'
